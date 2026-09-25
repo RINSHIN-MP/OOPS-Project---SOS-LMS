@@ -1,1 +1,1 @@
-# OOPS-Project-SOS-LMS
+# OOPS-Project-SOS-
